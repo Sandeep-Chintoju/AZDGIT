@@ -1,0 +1,15 @@
+6c0e378 commit for merging
+e4fd00a branch commit
+001476f commit all
+dbe58a2 Revert "9th commit updated"
+1e60e6f 9th commit updated
+d18e782 this is my 8th commit with email id
+4db7849 exercise commit
+eb0ee00 one go
+70ae0bf one go
+332799b all in a go
+2a80398 once in a go
+41cb06e at one go
+d1cad48 add & commit at one go
+6122b94 updated
+be72fb9 --help
