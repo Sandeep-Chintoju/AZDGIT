@@ -1,0 +1,29 @@
+commit 2a803982c6eb00d04d767bc219445778909ccacd
+Author: Sandeep-Chintoju <sandeep412@gmail.com>
+Date:   Wed Jul 28 14:20:09 2021 +0300
+
+    once in a go
+
+commit 41cb06e400f39d3433e348f5451f5e79fb4bd7ac
+Author: Sandeep-Chintoju <sandeep412@gmail.com>
+Date:   Wed Jul 28 14:07:37 2021 +0300
+
+    at one go
+
+commit d1cad4835bcd364e14d58957eb4ebebc319623f0
+Author: Sandeep-Chintoju <sandeep412@gmail.com>
+Date:   Wed Jul 28 14:06:08 2021 +0300
+
+    add & commit at one go
+
+commit 6122b948d2a324ca8125169cf6e416eadc3336a5
+Author: Sandeep-Chintoju <sandeep412@gmail.com>
+Date:   Wed Jul 28 14:03:34 2021 +0300
+
+    updated
+
+commit be72fb93ffc41a821e15d58071d6e9f0a103e515
+Author: Sandeep-Chintoju <sandeep412@gmail.com>
+Date:   Wed Jul 28 13:59:34 2021 +0300
+
+    --help
